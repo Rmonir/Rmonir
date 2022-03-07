@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Refat Monir</h1>
 <h3 align="center">Senior Frontend Developer</h3>
 
-- 🔭 I’m currently working on [MyReads project](https://github.com/Rmonir/myreads)
+- 🔭 I’m currently working on https://github.com/Rmonir/wazakker
 
 - 🌱 I’m currently learning **ReactJs and React Native**
 
